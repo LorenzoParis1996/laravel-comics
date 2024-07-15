@@ -65,6 +65,17 @@ main {
             text-align: center;
         }
      }
+
+     .blue-bg {
+        background-color: #0076f2;
+        padding: 2rem 1rem;
+
+        .features {
+            display: flex;
+            justify-content: space-evenly;
+
+        }
+     }
 }
 
 
