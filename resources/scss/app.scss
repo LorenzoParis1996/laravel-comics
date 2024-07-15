@@ -49,7 +49,23 @@ header {
       }
 }
 
+main {
+    .jumbo-main {
+        background-image: url(../img/jumbotron.jpg);
+        height: 26rem;
+     }
 
+     .content {
+        background-color: #303030;
+        height: 5rem;
+        padding: 1rem;
+
+        h1 {
+            color: white;
+            text-align: center;
+        }
+     }
+}
 
 
 

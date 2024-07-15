@@ -1,4 +1,4 @@
-@extends('layouts.app')
+{{--@extends('layouts.app')
 
 @section('main-content')
 
@@ -6,4 +6,6 @@
 
 </main>
 
-@endsection
+@endsection--}}
+
+<h1>please move along</h1>
