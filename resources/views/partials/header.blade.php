@@ -5,8 +5,9 @@
             <img src="{{ Vite::asset('resources/img/dc-logo.png') }}" alt="logo dc">
         </div>
         <ul>
-               <li>characters</li>
-                <li class="active">comics</li>
+                <li><a href="/">home</a></li>
+                <li>characters</li>
+                <li><a href="/comics">comics</a></li>
                 <li>movies</li>
                 <li>tv</li>
                 <li>games</li>

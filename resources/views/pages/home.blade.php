@@ -5,9 +5,6 @@
 <main>
     <div class="jumbo-main">
     </div>
-    <div class="content">
-        <h1>Content goes here</h1>
-    </div>
     <div class="blue-bg">
       <ul class="features">
          <li><img src="{{ Vite::asset('resources/img/buy-comics-digital-comics.png') }}" alt=""></li>
